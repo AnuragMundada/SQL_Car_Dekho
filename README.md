@@ -1,1 +1,2 @@
 # SQL_Car_Dekho
+This repository hosts SQL queries for the "Car_dekho Project," a fictional second-hand car dealership database. The queries provide insights into the inventory, including total counts, year-wise distributions, fuel-specific details, and more. Use these queries for decision-making and reporting within the context of the second-hand car dealership business. Contributions, improvements, and feedback are welcome. Happy querying!
